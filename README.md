@@ -1,4 +1,4 @@
 # Durganand_kumar
-first
+this is my first repository
 <br>
-gautam kumar
+Author - Munna (apna world)
